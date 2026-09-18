@@ -33,6 +33,4 @@ jupyter notebook Malicious_IP_Analysis.ipynb
 
 The notebook includes a live IP-geolocation lookup step that requires an internet connection to fully resolve one remaining record.
 
-## Notes on process
 
-This project was built with the help of Claude (Anthropic) for data cleaning code, chart design, and the written report — I worked through and validated each step, including the data quality findings and the reasoning behind the cleaning decisions.
